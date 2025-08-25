@@ -56,7 +56,7 @@ Streamlit
 ## 💻 Demo
 
 Here’s how the chatbot looks in action:
-![Chatbot Screenshot](Assets/images/chatbot.PNG)
+![Chatbot Screenshot](Assets/images/rag_chatbot.PNG)
 
 
 
